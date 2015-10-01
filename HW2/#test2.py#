@@ -1,0 +1,12 @@
+import sys
+import urllib2
+import json
+import csv
+import requests
+
+if __name__=='__main__':
+    MTA_KEY = sys.argv[1]
+    BUS_LINE = sys.argv[2]
+    url = 'http://api.prod.obanyc.com/api/siri/vehiclemonitoring.json?key=%s&VehicleMonitoringDetailLevel=calls&LineRef=%s' % (MTA_KEY
+
+
