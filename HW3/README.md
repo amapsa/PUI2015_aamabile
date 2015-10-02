@@ -5,4 +5,7 @@
 ### Assignment 1
 Packages needed, not in Anaconda (not listed in http://docs.continuum.io/anaconda/pkg-docs):
 - json
-- os 
+- os
+
+### Assignment 2
+All needed packages are included in Anaconda
