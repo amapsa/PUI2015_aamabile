@@ -1,0 +1,5 @@
+#Ignore Data files
+/Data
+#Ignore hidden files
+.*
+!/.gitignore
